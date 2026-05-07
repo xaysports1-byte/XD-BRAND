@@ -1,0 +1,14 @@
+{
+  "name": "xd-brand-jersey",
+  "version": "1.0.0",
+  "description": "XD Brand jersey - ระบบจัดการออเดอร์ผลิตเสื้อและบัญชี",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "deploy": "npx vercel --prod"
+  },
+  "keywords": ["xd-brand-jersey", "order-management", "fashion", "thai"],
+  "author": "XD Brand jersey",
+  "license": "UNLICENSED"
+}
